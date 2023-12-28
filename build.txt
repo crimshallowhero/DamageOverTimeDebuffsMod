@@ -1,0 +1,5 @@
+displayName = Buffed damage over time debuffs
+author = RedHeavenHero
+version = 0.4.0
+homepage = https://forums.terraria.org/index.php?threads/buffed-damage-over-time-debuffs.54329/
+includeSource = true
